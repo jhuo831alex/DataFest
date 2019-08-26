@@ -13,7 +13,7 @@ The main goal of this project was to provide Expedia return users with cutomized
 This project was done in 48 hours, and was presented to statisticians and Expedia data scientists. <br />
 
 # Further Details
-For more information: [Deck](https://github.com/jhuo831alex/DataFest2017_Expedia/blob/master/B10StatsTrek.pdf)
+For more information: [Deck](https://github.com/jhuo831alex/DataFest2017_Expedia/blob/master/Presentation%20Deck.pdf)
 
 # About DataFest
 ASA DataFestTM is a data hackathon for undergraduate students, sponsored by the American Statistical Association and founded at UCLA, in 2011. <br /> <br />
